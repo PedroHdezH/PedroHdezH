@@ -14,11 +14,11 @@
 ## 👨‍💻 Sobre mí
 ```python
 class Pedro:
-    ubicacion   = "México 🇲🇽"
-    rol         = "Full Stack Developer"
+    ubicacion    = "México 🇲🇽"
+    rol          = "Full Stack Developer"
     especialidad = ["Web", "Mobile", "Backend"]
-    pasiones    = ["Resolver problemas reales", "Aprender tecnologías nuevas", "Código limpio"]
-    contacto    = "pedrohernandez.02@outlook.com"
+    pasiones     = ["Resolver problemas reales", "Aprender tecnologías nuevas", "Código limpio"]
+    contacto     = "pedrohernandez.02@outlook.com"
 ```
 
 ---
@@ -76,5 +76,5 @@ class Pedro:
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,4&height=100&section=footer"/>
 </div>
